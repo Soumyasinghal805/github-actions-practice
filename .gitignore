@@ -1,0 +1,7 @@
+.venv/
+.pytest_cache/
+.coverage
+coverage.xml
+coverage-summary.md
+__pycache__/
+*.pyc
